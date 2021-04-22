@@ -2,7 +2,7 @@
 /*
 	* Style settings of LayerSlider
 	*
-	* (c) 2011-2021 George Krupa, John Gera & Kreatura Media
+	* (c) 2011-2020 George Krupa, John Gera & Kreatura Media
 	*
 	* LayerSlider home:		https://layerslider.kreaturamedia.com/
 	* Licensing:			https://layerslider.kreaturamedia.com/licensing/
@@ -259,12 +259,12 @@
 	}
 
 	.ls-icon-muted {
-		background-image: url(../img/icon-muted-white.png);
+		background-image: url(http://APCleaning.ser/test/wp-content/plugins/LayerSlider/assets/static/layerslider/img/icon-muted-white.png);
 		opacity: 1;
 	}
 
 	.ls-icon-unmuted {
-		background-image: url(../img/icon-unmuted-white.png);
+		background-image: url(http://APCleaning.ser/test/wp-content/plugins/LayerSlider/assets/static/layerslider/img/icon-unmuted-white.png);
 		opacity: 0;
 	}
 

@@ -2,7 +2,7 @@
 /* Slider */
 .slick-loading .slick-list
 {
-    background: #fff url('../img/ajax-loader.gif') center center no-repeat;
+    background: #fff url('http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/ajax-loader.gif') center center no-repeat;
 }
 
 /* Icons */
@@ -12,8 +12,8 @@
     font-weight: normal;
     font-style: normal;
 
-    src: url('./fonts/slick.eot');
-    src: url('./fonts/slick.eot?#iefix') format('embedded-opentype'), url('./fonts/slick.woff') format('woff'), url('./fonts/slick.ttf') format('truetype'), url('./fonts/slick.svg#slick') format('svg');
+    src: url('http://APCleaning.ser/test/wp-content/themes/clenix/assets/css/fonts/slick.eot');
+    src: url('http://APCleaning.ser/test/wp-content/themes/clenix/assets/css/fonts/slick.eot#iefix') format('embedded-opentype'), url('http://APCleaning.ser/test/wp-content/themes/clenix/assets/css/fonts/slick.woff') format('woff'), url('http://APCleaning.ser/test/wp-content/themes/clenix/assets/css/fonts/slick.ttf') format('truetype'), url('http://APCleaning.ser/test/wp-content/themes/clenix/assets/css/fonts/slick.svg#slick') format('svg');
 }
 /* Arrows */
 .slick-prev,

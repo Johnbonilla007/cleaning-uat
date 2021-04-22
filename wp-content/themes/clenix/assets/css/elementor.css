@@ -77,7 +77,7 @@ CSS INDEX
     margin-bottom: 5px;
 }
 .image-left-bottom-shape .elementor-image:after {
-    content: url(../img/about-shape.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/about-shape.png);
     position: absolute;
     bottom: -60px;
     left: -60px;
@@ -353,7 +353,7 @@ CSS INDEX
     z-index: 2;
 }
 .section-style-1:before {
-    content: url(../img/bubble6.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/bubble6.png);
     opacity: 0.30;
     position: absolute;
     top: 0;
@@ -361,7 +361,7 @@ CSS INDEX
     z-index: -1;
 }
 .section-style-1:after {
-    content: url(../img/bubble7.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/bubble7.png);
     opacity: 0.30;
     position: absolute;
     bottom: 0;
@@ -376,14 +376,14 @@ CSS INDEX
     z-index: 2;
 }
 .section-style-2:before {
-    content: url(../img/bubble1.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/bubble1.png);
     position: absolute;
     top: 0;
     left: 0;
     z-index: -1;
 }
 .section-style-2:after {
-    content: url(../img/bubble2.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/bubble2.png);
     position: absolute;
     bottom: 0;
     right: 0;
@@ -396,61 +396,61 @@ CSS INDEX
     position: relative;
 }
 .section-style-3:after {
-    content: url(../img/figure12.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/figure12.png);
     position: absolute;
     bottom: 90px;
     left: 0;
     opacity: 0.10;
 }
 .section-style-4:after {
-    content: url(../img/figure11.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/figure11.png);
     position: absolute;
     bottom: 90px;
     right: -100px;
 }
 .section-style-5:after {
-    content: url(../img/figure13.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/figure13.png);
     position: absolute;
     bottom: 120px;
     left: 0;
 }
 .section-style-6:after {
-    content: url(../img/figure14.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/figure14.png);
     position: absolute;
     right: -30px;
     top: 50%;
     transform: translateY(-50%);
 }
 .section-style-7:after {
-    content: url(../img/figure15.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/figure15.png);
     position: absolute;
     right: 0;
     top: 50%;
     transform: translateY(-50%);
 }
 .section-style-8:after {
-    content: url(../img/figure16.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/figure16.png);
     position: absolute;
     right: 0;
     top: 50%;
     transform: translateY(-50%);
 }
 .section-style-9:after {
-    content: url(../img/figure17.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/figure17.png);
     position: absolute;
     right: -40px;
     top: 50%;
     transform: translateY(-50%);
 }
 .section-style-10:after {
-    content: url(../img/figure18.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/figure18.png);
     position: absolute;
     right: 0px;
     top: 50%;
     transform: translateY(-50%);
 }
 .left-section-style-4:after {
-    content: url(../img/figure11.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/figure11.png);
     position: absolute;
     bottom: 90px;
     left: -100px;
@@ -470,7 +470,7 @@ CSS INDEX
 }
 /*Section bubble style*/
 .section-bubble-1:after {
-	content: url(../img/section-bubble6.png);
+	content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/section-bubble6.png);
     position: absolute;
     bottom: -10px;
     left: 0;
@@ -484,7 +484,7 @@ CSS INDEX
 	}
 }
 .section-bubble-2:after {
-    content: url(../img/section-bubble4.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/section-bubble4.png);
     position: absolute;
     bottom: -10px;
     left: 0;
@@ -497,7 +497,7 @@ CSS INDEX
 	}
 }
 .section-bubble-3:after {
-    content: url(../img/section-bubble3.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/section-bubble3.png);
     position: absolute;
     bottom: -10px;
     left: 0;
@@ -1774,7 +1774,7 @@ a.slider-button {
 	width: 35px;
 }
 .info-style1 .rtin-item .rtin-icon:after {
-    content: url(../img/dot-bubble.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/dot-bubble.png);
     position: absolute;
     top: -15px;
     right: 18px;
@@ -2131,7 +2131,7 @@ a.slider-button {
 	position: relative;
 }
 .info-style6 .rtin-item .rtin-media > span:after {
-    content: url(../img/dot-bubble.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/dot-bubble.png);
     position: absolute;
     top: -20px;
     right: 20px;
@@ -2223,7 +2223,7 @@ a.slider-button {
 	color: #ffffff;
 }
 .info-style7 .rtin-item .rtin-media > span:after {
-    content: url(../img/bubble10.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/bubble10.png);
     position: absolute;
     top: -38px;
     right: -30px;
@@ -3076,7 +3076,7 @@ ul.rating li.star-rate i {
 	margin-bottom: 25px;
 }
 .service-tab-layout .single-item ul.list-item .item-text:before {
-	content: url(../img/figure19.png);
+	content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/figure19.png);
     position: absolute;
 	left: 0;
 	right: 0;
@@ -3416,7 +3416,7 @@ ul.rating li.star-rate i {
     box-shadow: 0 7px 15px 0px rgba(0, 0, 0, 0.1);
 }
 .service-grid-layout2 .rtin-item:after {
-    content: url(../img/figure10.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/figure10.png);
     position: absolute;
     top: 0;
     right: 0;
@@ -4292,7 +4292,7 @@ ul.rating li.star-rate i {
     z-index: -1;
 }
 .team-multi-layout-5 .rtin-content-wrap figure:after {
-    content: url(../img/bubble.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/bubble.png);
     position: absolute;
     top: 0;
     left: -20px;
@@ -5982,13 +5982,13 @@ ul.rating li.star-rate i {
     transition: all 0.5s ease-out;
 }
 .rtin-pricing-layout1 .rt-price-table-box:before {
-    content: url(../img/bubble3.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/bubble3.png);
     position: absolute;
     top: 0;
     left: 0;
 }
 .rtin-pricing-layout1 .rt-price-table-box:after {
-    content: url(../img/bubble4.png);
+    content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/bubble4.png);
     position: absolute;
     top: 0;
     right: 0;
@@ -7441,7 +7441,7 @@ ul.rating li.star-rate i {
 	overflow: hidden;
 }
 .image-bg-animation:before {
-	content: url(../img/figure20.png);
+	content: url(http://APCleaning.ser/test/wp-content/themes/clenix/assets/img/figure20.png);
     position: absolute;
     top: 0;
     left: 10px;
